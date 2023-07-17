@@ -30,7 +30,7 @@ singularity run --cleanenv \
  # --longitudinal \
 
  # To ignore fieldmaps:
- # --ignore fieldmaps
+ # --ignore fieldmaps \
 
  # To use fieldmap-less distortion correction:
- # --use-syn-sdc
+ # --use-syn-sdc \
