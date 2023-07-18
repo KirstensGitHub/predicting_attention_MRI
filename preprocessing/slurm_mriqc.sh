@@ -22,7 +22,7 @@
 #SBATCH --cpus-per-task=8 --mem-per-cpu=14000
 
 # Update with your email 
-#SBATCH --mail-user=YOUREMAIL@princeton.edu
+#SBATCH --mail-user=kz0108@princeton.edu
 #SBATCH --mail-type=BEGIN,END,FAIL
 
 # Remove modules because Singularity shouldn't need them
