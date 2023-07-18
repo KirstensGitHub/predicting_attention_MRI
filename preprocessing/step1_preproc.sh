@@ -12,7 +12,7 @@
 
 # RECOMMENDED TO RUN HEUDICONV IN TMUX WINDOW: 
 # create a new tmux window: tmux new -s [name]
-# attach to an existing window: tmux a -t [name]
+# attach to an existing wndow: tmux a -t [name]
 
 # other scripts called by this one: number_of_files.py, run_heudiconv.py, deface.sh
 
