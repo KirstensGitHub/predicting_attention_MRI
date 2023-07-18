@@ -13,7 +13,7 @@ scanner_dir=/jukebox/dicom/conquest/Prisma-MSTZ400D/GraziL/2023 #Prisma
 project_dir=/jukebox/graziano/kirsten/pygers_workshop/sample_study
 
 # 3. Edit where your scratch and work directories are located (note: make sure you have setup a work directory on scratch)
-scratch_dir=/jukebox/scratch/kirsten/work/predicting_attention
+scratch_dir=/jukebox/scratch/kirsten/work/pygers
 # scratch_dir=/jukebox/YOURLAB/USERNAME/YOURSTUDY/data/work
 
 data_dir=/jukebox/graziano/kirsten/pygers_workshop/sample_study/data
